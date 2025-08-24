@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on train-test-prod</title>
+    <link>https://train-test-prod.github.io/tags/</link>
+    <description>Recent content in Tags on train-test-prod</description>
+    <image>
+      <title>train-test-prod</title>
+      <url>https://train-test-prod.github.io/og-image.png</url>
+      <link>https://train-test-prod.github.io/og-image.png</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://train-test-prod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataProcessing</title>
+      <link>https://train-test-prod.github.io/tags/dataprocessing/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://train-test-prod.github.io/tags/dataprocessing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DataScience</title>
+      <link>https://train-test-prod.github.io/tags/datascience/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://train-test-prod.github.io/tags/datascience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://train-test-prod.github.io/tags/python/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://train-test-prod.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://train-test-prod.github.io/tags/dataprocessing/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/tags/datascience/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/tags/python/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/tags/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/posts/machinelearning/first_post/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/about/</loc>
+    <lastmod>2025-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://train-test-prod.github.io/categories/</loc>
+  </url><url>
+    <loc>https://train-test-prod.github.io/search/</loc>
+  </url><url>
+    <loc>https://train-test-prod.github.io/series/</loc>
+  </url>
+</urlset>

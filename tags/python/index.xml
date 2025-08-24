@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on train-test-prod</title>
+    <link>https://train-test-prod.github.io/tags/python/</link>
+    <description>Recent content in Python on train-test-prod</description>
+    <image>
+      <title>train-test-prod</title>
+      <url>https://train-test-prod.github.io/og-image.png</url>
+      <link>https://train-test-prod.github.io/og-image.png</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://train-test-prod.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почему Polars - это будущее работы с табличными данными?</title>
+      <link>https://train-test-prod.github.io/posts/machinelearning/first_post/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://train-test-prod.github.io/posts/machinelearning/first_post/</guid>
+      <description>&lt;h2 id=&#34;почему-polars--это-будущее-работы-с-табличными-данными&#34;&gt;Почему Polars — это будущее работы с табличными данными&lt;/h2&gt;
+&lt;p&gt;В последние годы мир аналитики данных стремительно меняется, и одной из самых заметных новинок стала библиотека Polars. На фоне устоявшихся решений вроде Pandas, Polars предлагает современный, высокопроизводительный и параллельный подход к обработке табличных данных. Ниже мы рассмотрим, почему всё больше разработчиков и дата-аналитиков делают ставку именно на Polars.&lt;/p&gt;
+&lt;p&gt;🚀 Производительность по умолчанию&lt;/p&gt;
+&lt;p&gt;Polars написан на языке Rust, что сразу же обеспечивает высокий уровень производительности и безопасности. В отличие от Pandas, который работает в основном в однопоточном режиме, Polars изначально спроектирован для многопоточности. Это позволяет значительно ускорить обработку больших объёмов данных без дополнительных усилий со стороны пользователя.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
